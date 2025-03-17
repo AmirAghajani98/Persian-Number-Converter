@@ -12,5 +12,9 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmirAghajani98/persian-number-converter.git"
   }
 }

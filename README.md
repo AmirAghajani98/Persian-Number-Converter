@@ -14,3 +14,8 @@ import { convertPersianNumbers } from 'persian-number-converter';
 
 const result = convertPersianNumbers("۰۱۲۳۴۵۶۷۸۹");
 console.log(result); // Output: "0123456789"
+
+# Persian Number Converter
+
+![GitHub](https://img.shields.io/github/license/YOUR-USERNAME/persian-number-converter)
+![npm](https://img.shields.io/npm/v/persian-number-converter)
